@@ -3,12 +3,12 @@ const music = document.getElementById("music");
 
 // daftar semua foto
 const images = [
-  "images/foto 1.jpeg",
-  "images/foto 2.jpeg",
-  "images/foto 3.jpeg",
-  "images/foto 4.jpg",
-  "images/foto 5.jpg",
-  "images/foto 6.jpg"
+  "images/foto1.jpeg",
+  "images/foto2.jpeg",
+  "images/foto3.jpeg",
+  "images/foto4.jpg",
+  "images/foto5.jpg",
+  "images/foto6.jpg"
 ];
 
 // mulai dari foto pertama
